@@ -18,7 +18,7 @@
 - Coding at least 4 hours a day
 - Exercising 3 days a week
 
-#### :computer: Programming languages and tools: 
+#### :computer: Technology Stack: 
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=mubeenellahi1&show_icons=true&hide_border=true" />
 
